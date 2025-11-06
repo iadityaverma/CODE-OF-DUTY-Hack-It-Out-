@@ -85,7 +85,7 @@ nav a{
 }
 .hero-btn:hover{
     border: 1px solid black;
-    background: orangered;
+    background: rgb(39, 161, 58);
     transition: 1s;
     color:black;
     border-radius: 5px;
